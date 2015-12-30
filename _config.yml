@@ -1,6 +1,6 @@
 name: CatTownsend
 favicon: null
-layout_spectrum: 0.9826996454503387
+layout_spectrum: 0.99871
 typography_spectrum: 0.8210577522404492
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.22785231610760093
-  lightness: 0.6267003647517413
-  saturation: 0.6379802259616554
-  rhythmicContrast: 0.8000135764013976
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
