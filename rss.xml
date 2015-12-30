@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CatTownsend]]></title>
+        <description><![CDATA[CatTownsend]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 12:05:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fleeing the UK on foot]]></title>
+            <description><![CDATA[<article><h1>Fleeing the UK on foot</h1><p>This Christmas I am doing what most of my friends are doing... fleeing London in search of friends and family. Except that unlike most of my friends, I won't be taking a train or a plane.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1fac8a2d7d4efd94ec1f5a53ad2427d75a67037.jpg"></article>]]></description>
+            <link>undefinedfleeing-the-uk-on-foot/index.html</link>
+            <guid isPermaLink="false">4902006e-c842-4c3b-9830-fa940e1dcffc</guid>
+            <pubDate>Wed, 30 Dec 2015 12:05:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
